@@ -68,17 +68,18 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 print(f"Received {data!r}")
 
-
+```
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-03-12 204453.png>)
+
 
 ![alt text](<Screenshot 2025-03-12 204559.png>)
 
+![alt text](<Screenshot 2025-03-12 204453.png>)
 
 
 
-```
+
 
 ## RESULT:
 The program is executed successfully
