@@ -71,5 +71,14 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 
+![alt text](<Screenshot 2025-03-12 204453.png>)
+
+![alt text](<Screenshot 2025-03-12 204559.png>)
+
+
+
+
+
+
 ## RESULT:
 The program is executed successfully
