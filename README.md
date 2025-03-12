@@ -26,7 +26,7 @@ Testing the server and client
 
 ### echo-server.py
 
-
+```
 import socket
 
 
@@ -48,10 +48,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 
-
+```
 ### Client Code:
 #### echo-client.py
-
+```
 
 import socket
 
@@ -78,7 +78,7 @@ print(f"Received {data!r}")
 
 
 
-
+```
 
 ## RESULT:
 The program is executed successfully
